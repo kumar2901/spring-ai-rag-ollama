@@ -1,13 +1,8 @@
 package com.kumar.springai.rag;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringAiRagOllamaApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
 
 }
